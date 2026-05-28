@@ -1,0 +1,1 @@
+# generate-inventory-files-and-upload
