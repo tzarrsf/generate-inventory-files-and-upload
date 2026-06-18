@@ -1,0 +1,1 @@
+SELECT Id, Name, IsActive, ProductCode, StockKeepingUnit FROM Product2 where ProductCode = null and StockKeepingUnit <> '9999999'

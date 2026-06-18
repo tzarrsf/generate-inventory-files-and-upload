@@ -1,4 +1,3 @@
-# generate-inventory-files-and-upload
+# Verify Environments and Seed Inventory Data
 
-This repository supports a B2B Commerce Implementation Readiness activity. For the latest activity guide, see:
-- [https://sfdc.co/generate-inventory-files-and-upload](https://sfdc.co/generate-inventory-files-and-upload)
+This repository supplements the partner technical enablement activity: Verify Environments and Seed Inventory Data

@@ -1,0 +1,1 @@
+SELECT Name, IsActive, ProductCode, StockKeepingUnit FROM Product2
