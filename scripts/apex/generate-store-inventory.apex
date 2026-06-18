@@ -10,6 +10,7 @@
 
 // -------- Start user settings -------- //
 
+
 String storeName = 'B2B Store';  // The store name with products needing inventory levels
 String priceBookName = storeName + ' Price Book'; // The store's price book name
 String locationId = 'B2BStore_Warehouse'; // The locationId in OCI for the inventory levels
